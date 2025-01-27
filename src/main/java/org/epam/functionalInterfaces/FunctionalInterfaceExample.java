@@ -1,8 +1,8 @@
-package org.epam.FunctionalInterfaces;
+package org.epam.functionalInterfaces;
 
 import java.util.function.*;
 
-public class FunctionalInterfaces {
+public class FunctionalInterfaceExample {
     public static void main(String[] args) {
         Predicate<Integer> isEven = (num) -> num%2==0;//give a condition body
         System.out.println(isEven.test(4));

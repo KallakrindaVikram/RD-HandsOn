@@ -1,4 +1,4 @@
-package org.epam.Optional;
+package org.epam.optional;
 
 import java.util.Optional;
 
